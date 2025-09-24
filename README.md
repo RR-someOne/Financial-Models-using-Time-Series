@@ -1,4 +1,4 @@
-## Financial Models using Time Series
+## Financial Models using Time Series and Financial Forecasting
 
 ## Overview
 This repository is dedicated to the implementation and analysis of various financial models using time series data. The project provides a collection of scripts and notebooks that demonstrate how to apply common time series techniques to financial data, including forecasting, volatility modeling, and backtesting strategies. The goal is to provide a practical resource for understanding and building predictive financial models.
